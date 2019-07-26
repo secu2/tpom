@@ -83,7 +83,7 @@ And add the ```pom``` variable to your widgets list.
 
 ### Post-Hook
 
-Not to be outdone, you can execute an arbitrary script when the timer goes off. This is totally useful to cause notifications to fly, ring an alarm -- whatever you like. Create an executable file at ```~/.tpm-post.sh``` with a standard ```#!``` line at the top. An example is included -- just copy it to the right place.
+Not to be outdone, you can execute an arbitrary script when the timer goes off. This is totally useful to cause notifications to fly, ring an alarm -- whatever you like. Create an executable file at ```~/.tpom-post.sh``` with a standard ```#!``` line at the top. An example is included -- just copy it to the right place.
 
 ### Questions?
 It's a tiny thing, but feel free to help me improve it. Drop me a line, or [follow me on Twitter](http://twitter.com/barakmich). 
